@@ -17,6 +17,7 @@ docker compose up --build
 The first build downloads Python packages and the DictaBERT model (~2 GB image)
 and fits the model. After that the container runs without internet.
 The API is on http://localhost:8000 (Swagger UI at `/docs`).
+If port 8000 is taken, pick another one: `API_PORT=8010 docker compose up --build`.
 
 ```bash
 # a visit from visits.csv

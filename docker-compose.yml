@@ -3,6 +3,6 @@ services:
     build: .
     image: clinicalnote2diagnoses
     ports:
-      - "8000:8000"
+      - "${API_PORT:-8000}:8000"
     volumes:
       - ./results:/app/results
