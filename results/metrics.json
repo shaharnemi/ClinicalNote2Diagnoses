@@ -1,0 +1,325 @@
+{
+  "model": "dicta-il/dictabert",
+  "icd_release": "ICD-10-CM FY2027 (October 1, 2026), CDC/NCHS tabular XML",
+  "code_level": {
+    "precision": 0.504,
+    "recall": 0.517,
+    "f1": 0.51,
+    "exact_visit": 0.327,
+    "visits": 510
+  },
+  "category_level": {
+    "precision": 0.543,
+    "recall": 0.556,
+    "f1": 0.549,
+    "exact_visit": 0.369,
+    "visits": 510
+  },
+  "vs_any_doctor": {
+    "precision": 0.515,
+    "recall": 0.516,
+    "f1": 0.515,
+    "exact_visit": 0.335,
+    "visits": 510
+  },
+  "seen_vs_unseen": {
+    "seen in training": {
+      "codes": 402,
+      "share": 0.519,
+      "recall": 0.995
+    },
+    "never seen in training": {
+      "codes": 372,
+      "share": 0.481,
+      "recall": 0.0
+    }
+  },
+  "doctors": {
+    "DR_A": {
+      "precision": 0.876,
+      "recall": 0.98,
+      "f1": 0.925,
+      "exact_visit": 0.81,
+      "visits": 510
+    },
+    "DR_B": {
+      "precision": 0.905,
+      "recall": 0.96,
+      "f1": 0.932,
+      "exact_visit": 0.825,
+      "visits": 510
+    },
+    "DR_C": {
+      "precision": 0.939,
+      "recall": 0.926,
+      "f1": 0.933,
+      "exact_visit": 0.825,
+      "visits": 510
+    }
+  },
+  "model_vs_doctor_pairs": {
+    "model vs DR_B+DR_C": {
+      "precision": 0.426,
+      "recall": 0.488,
+      "f1": 0.455,
+      "exact_visit": 0.259,
+      "visits": 510
+    },
+    "model vs DR_A+DR_C": {
+      "precision": 0.44,
+      "recall": 0.494,
+      "f1": 0.465,
+      "exact_visit": 0.276,
+      "visits": 510
+    },
+    "model vs DR_A+DR_B": {
+      "precision": 0.465,
+      "recall": 0.504,
+      "f1": 0.484,
+      "exact_visit": 0.296,
+      "visits": 510
+    }
+  },
+  "score_buckets": [
+    {
+      "score": "0.00-0.85",
+      "predictions": 59,
+      "precision": 0.0
+    },
+    {
+      "score": "0.85-0.90",
+      "predictions": 243,
+      "precision": 0.0
+    },
+    {
+      "score": "0.90-0.95",
+      "predictions": 88,
+      "precision": 0.091
+    },
+    {
+      "score": "0.95-0.98",
+      "predictions": 75,
+      "precision": 0.947
+    },
+    {
+      "score": "0.98-1.00",
+      "predictions": 329,
+      "precision": 0.976
+    }
+  ],
+  "thresholds": {
+    "0.0": {
+      "precision": 0.504,
+      "recall": 0.517,
+      "f1": 0.51,
+      "exact_visit": 0.327,
+      "visits": 510
+    },
+    "0.9": {
+      "precision": 0.813,
+      "recall": 0.517,
+      "f1": 0.632,
+      "exact_visit": 0.337,
+      "visits": 510
+    },
+    "0.95": {
+      "precision": 0.97,
+      "recall": 0.506,
+      "f1": 0.666,
+      "exact_visit": 0.327,
+      "visits": 510
+    },
+    "0.98": {
+      "precision": 0.976,
+      "recall": 0.415,
+      "f1": 0.582,
+      "exact_visit": 0.235,
+      "visits": 510
+    }
+  },
+  "by_visit_type": {
+    "new": {
+      "precision": 0.493,
+      "recall": 0.506,
+      "f1": 0.5,
+      "exact_visit": 0.328,
+      "visits": 335
+    },
+    "follow_up": {
+      "precision": 0.558,
+      "recall": 0.575,
+      "f1": 0.566,
+      "exact_visit": 0.358,
+      "visits": 148
+    },
+    "urgent": {
+      "precision": 0.348,
+      "recall": 0.348,
+      "f1": 0.348,
+      "exact_visit": 0.148,
+      "visits": 27
+    }
+  },
+  "by_specialty": {
+    "Family Medicine": {
+      "precision": 0.647,
+      "recall": 0.672,
+      "f1": 0.659,
+      "exact_visit": 0.384,
+      "visits": 159
+    },
+    "Orthopedics and Rehabilitation": {
+      "precision": 0.636,
+      "recall": 0.636,
+      "f1": 0.636,
+      "exact_visit": 0.567,
+      "visits": 30
+    },
+    "Dermatology": {
+      "precision": 0.513,
+      "recall": 0.513,
+      "f1": 0.513,
+      "exact_visit": 0.448,
+      "visits": 29
+    },
+    "Gastroenterology and Hepatology": {
+      "precision": 0.395,
+      "recall": 0.417,
+      "f1": 0.405,
+      "exact_visit": 0.231,
+      "visits": 26
+    },
+    "Pulmonology": {
+      "precision": 0.552,
+      "recall": 0.571,
+      "f1": 0.561,
+      "exact_visit": 0.542,
+      "visits": 24
+    },
+    "Injuries, Accidents and Acute Care": {
+      "precision": 0.385,
+      "recall": 0.385,
+      "f1": 0.385,
+      "exact_visit": 0.167,
+      "visits": 24
+    },
+    "Gynecology and Obstetrics": {
+      "precision": 0.323,
+      "recall": 0.345,
+      "f1": 0.333,
+      "exact_visit": 0.136,
+      "visits": 22
+    },
+    "Other Clinical Presentations": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "exact_visit": 0.0,
+      "visits": 20
+    },
+    "Nephrology and Urology": {
+      "precision": 0.136,
+      "recall": 0.136,
+      "f1": 0.136,
+      "exact_visit": 0.1,
+      "visits": 20
+    },
+    "ENT and Audiology": {
+      "precision": 0.35,
+      "recall": 0.35,
+      "f1": 0.35,
+      "exact_visit": 0.316,
+      "visits": 19
+    },
+    "Oncology and Neoplasms": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "exact_visit": 0.0,
+      "visits": 19
+    },
+    "Infectious Disease": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "exact_visit": 0.438,
+      "visits": 16
+    },
+    "Endocrinology and Metabolic": {
+      "precision": 0.737,
+      "recall": 0.778,
+      "f1": 0.757,
+      "exact_visit": 0.733,
+      "visits": 15
+    },
+    "Rheumatology": {
+      "precision": 0.444,
+      "recall": 0.444,
+      "f1": 0.444,
+      "exact_visit": 0.333,
+      "visits": 15
+    },
+    "Neurology": {
+      "precision": 0.333,
+      "recall": 0.333,
+      "f1": 0.333,
+      "exact_visit": 0.333,
+      "visits": 15
+    },
+    "Cardiology": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "exact_visit": 0.5,
+      "visits": 14
+    },
+    "Hematology and Immunology": {
+      "precision": 0.333,
+      "recall": 0.333,
+      "f1": 0.333,
+      "exact_visit": 0.231,
+      "visits": 13
+    },
+    "Ophthalmology": {
+      "precision": 0.083,
+      "recall": 0.083,
+      "f1": 0.083,
+      "exact_visit": 0.091,
+      "visits": 11
+    },
+    "Psychiatry and Sleep": {
+      "precision": 0.308,
+      "recall": 0.333,
+      "f1": 0.32,
+      "exact_visit": 0.2,
+      "visits": 10
+    },
+    "Pediatrics and Development": {
+      "precision": 0.111,
+      "recall": 0.111,
+      "f1": 0.111,
+      "exact_visit": 0.111,
+      "visits": 9
+    }
+  },
+  "label_quality": {
+    "annotation_rows_by_status": {
+      "ok": 2212,
+      "not_final": 22,
+      "unknown": 11
+    },
+    "not_in_release": [
+      "M13.9"
+    ],
+    "category_not_final": [
+      "G35",
+      "I31.3",
+      "I42.0",
+      "I47.1",
+      "M72.2",
+      "R76.8"
+    ],
+    "visits_all_three_identical": 409,
+    "visits": 510
+  }
+}

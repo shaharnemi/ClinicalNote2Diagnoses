@@ -1,0 +1,5 @@
+transformers==5.22.*
+numpy==2.5.*
+fastapi==0.162.*
+uvicorn==0.54.*
+pytest==9.2.*

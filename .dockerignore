@@ -1,0 +1,6 @@
+.git
+.venv
+cache
+results
+**/__pycache__
+data/icd10cm-index-2027.xml

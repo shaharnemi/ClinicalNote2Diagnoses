@@ -1,0 +1,5 @@
+.venv/
+cache/
+__pycache__/
+.DS_Store
+data/icd10cm-index-2027.xml

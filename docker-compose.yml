@@ -1,0 +1,8 @@
+services:
+  api:
+    build: .
+    image: clinicalnote2diagnoses
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./results:/app/results

@@ -1,0 +1,1522 @@
+[
+  {
+    "visit_id": "V0002",
+    "predictions": [
+      {
+        "code": "G60.9",
+        "score": 1.0,
+        "evidence": "נימול סימטרי בכפות רגליים עם ירידה בתחושה.",
+        "similar_visit": "V0508",
+        "description": "Hereditary and idiopathic neuropathy, unspecified"
+      },
+      {
+        "code": "M47.812",
+        "score": 1.0,
+        "evidence": "הדמיה מראה שינויים ניווניים צוואריים.",
+        "similar_visit": "V0179",
+        "description": "Spondylosis without myelopathy or radiculopathy, cervical region"
+      },
+      {
+        "code": "I70.213",
+        "score": 1.0,
+        "evidence": "כאב בשוקיים לאחר הליכה קבועה שחולף בעצירה.",
+        "similar_visit": "V0266",
+        "description": "Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0021",
+    "predictions": [
+      {
+        "code": "H20.9",
+        "score": 1.0,
+        "evidence": "כאב עין ורגישות לאור עם אודם פרילימבלי.",
+        "similar_visit": "V0355",
+        "description": "Unspecified iridocyclitis"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "פפילאדמה ולחץ פתיחה מוגבר בניקור מותני.",
+        "closest_code": "H83.09",
+        "score": 0.893
+      }
+    ]
+  },
+  {
+    "visit_id": "V0028",
+    "predictions": [
+      {
+        "code": "J41.0",
+        "score": 1.0,
+        "evidence": "עישון ממושך ללא חסימה משמעותית בספירומטריה.",
+        "similar_visit": "V0433",
+        "description": "Simple chronic bronchitis"
+      },
+      {
+        "code": "I20.9",
+        "score": 0.978,
+        "evidence": "אקג במנוחה ללא עדות לאוטם חריף.",
+        "similar_visit": "V0348",
+        "description": "Angina pectoris, unspecified"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0031",
+    "predictions": [
+      {
+        "code": "E87.20",
+        "score": 1.0,
+        "evidence": "נשימה עמוקה וטכיפנאה עם הפרעה בחומציות הדם.",
+        "similar_visit": "V0521",
+        "description": "Acidosis, unspecified"
+      },
+      {
+        "code": "M25.571",
+        "score": 0.98,
+        "evidence": "לא הודגם שבר או קרע בבדיקה ראשונית.",
+        "similar_visit": "V0523",
+        "description": "Pain in right ankle and joints of right foot"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0040",
+    "predictions": [
+      {
+        "code": "D55.9",
+        "score": 1.0,
+        "evidence": "אירועי המוליזה חוזרים אחרי חשיפות מסוימות.",
+        "similar_visit": "V0520",
+        "description": "Anemia due to enzyme disorder, unspecified"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כאב במותן ללא חסימה בשופכן.",
+        "closest_code": "N13.2",
+        "score": 0.925
+      }
+    ]
+  },
+  {
+    "visit_id": "V0042",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "נפיחות כואבת ואדומה בעור עם מוגלה.",
+        "closest_code": "B37.31",
+        "score": 0.898
+      }
+    ]
+  },
+  {
+    "visit_id": "V0063",
+    "predictions": [
+      {
+        "code": "H01.001",
+        "score": 1.0,
+        "evidence": "צריבה וקשקשת בריסים של עפעף ימני עליון.",
+        "similar_visit": "V0516",
+        "description": "Unspecified blepharitis right upper eyelid"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "נימול בלילה באגודל, באצבע ובאמה של יד ימין.",
+        "closest_code": "G56.02",
+        "score": 0.854
+      }
+    ]
+  },
+  {
+    "visit_id": "V0066",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "משקע לבנבן בחלל הפה לאחר משאף סטרואידים.",
+        "closest_code": "M10.9",
+        "score": 0.834
+      }
+    ]
+  },
+  {
+    "visit_id": "V0068",
+    "predictions": [
+      {
+        "code": "D75.1",
+        "score": 1.0,
+        "evidence": "רמות המוגלובין והמטוקריט גבוהות בעישון ממושך.",
+        "similar_visit": "V0017",
+        "description": "Secondary polycythemia"
+      },
+      {
+        "code": "N83.202",
+        "score": 0.997,
+        "evidence": "ציסטה בשחלה שמאל בהדמיה.",
+        "similar_visit": "V0453",
+        "description": "Unspecified ovarian cyst, left side"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0074",
+    "predictions": [
+      {
+        "code": "G47.33",
+        "score": 1.0,
+        "evidence": "נחירות עם הפסקות נשימה נצפות וישנוניות בוקר.",
+        "similar_visit": "V0551",
+        "description": "Obstructive sleep apnea (adult) (pediatric)"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "קושי בריכוז, אימפולסיביות ותנועתיות במסגרות שונות.",
+        "closest_code": "F82",
+        "score": 0.855
+      }
+    ]
+  },
+  {
+    "visit_id": "V0076",
+    "predictions": [
+      {
+        "code": "E87.0",
+        "score": 1.0,
+        "evidence": "נתרן 155 mmol/L.",
+        "similar_visit": "V0506",
+        "description": "Hyperosmolality and hypernatremia"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "OCT מראה ממברנה על פני הרשתית.",
+        "closest_code": "H43.391",
+        "score": 0.856
+      }
+    ]
+  },
+  {
+    "visit_id": "V0081",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "אזור רדום ביד לאחר מאמץ וללא אבחנה מוכחת.",
+        "closest_code": "M25.511",
+        "score": 0.884
+      }
+    ]
+  },
+  {
+    "visit_id": "V0094",
+    "predictions": [
+      {
+        "code": "E23.0",
+        "score": 1.0,
+        "evidence": "MRI והורמונים תומכים בהיפופיטואיטריזם.",
+        "similar_visit": "V0064",
+        "description": "Hypopituitarism"
+      },
+      {
+        "code": "I42.0",
+        "score": 0.98,
+        "evidence": "ירידה בתפקוד הסיסטולי והרחבת חדר שמאל ללא מחלת מסתם מסבירה.",
+        "similar_visit": "V0189",
+        "description": "Dilated cardiomyopathy",
+        "warning": "category code, a more specific code exists in FY2027"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "קוצר נשימה בעלייה במדרגות ובצקות לאורך חודשים.",
+        "closest_code": "J41.0",
+        "score": 0.858
+      }
+    ]
+  },
+  {
+    "visit_id": "V0097",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "טעם מתכתי בפה לאחר טיפול חדש.",
+        "closest_code": "J31.2",
+        "score": 0.826
+      }
+    ]
+  },
+  {
+    "visit_id": "V0102",
+    "predictions": [
+      {
+        "code": "J01.00",
+        "score": 1.0,
+        "evidence": "כאב בלחי והפרשה מוגלתית מהאף לאחר הצטננות.",
+        "similar_visit": "V0554",
+        "description": "Acute maxillary sinusitis, unspecified"
+      },
+      {
+        "code": "J38.3",
+        "score": 1.0,
+        "evidence": "לרינגוסקופיה עם ממצא במיתרים.",
+        "similar_visit": "V0530",
+        "description": "Other diseases of vocal cords"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0113",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "נימול בלילה באגודל, באצבע ובאמה של יד ימין.",
+        "closest_code": "G56.02",
+        "score": 0.852
+      }
+    ]
+  },
+  {
+    "visit_id": "V0121",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "תפרחת מפושטת מספר ימים אחרי התחלת טיפול חדש.",
+        "closest_code": "L53.9",
+        "score": 0.865
+      }
+    ]
+  },
+  {
+    "visit_id": "V0123",
+    "predictions": [
+      {
+        "code": "D62",
+        "score": 0.974,
+        "evidence": "חולשה וסחרחורת לאחר איבוד דם משמעותי.",
+        "similar_visit": "V0157",
+        "description": "Acute posthemorrhagic anemia"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "קולונוסקופיה מראה דלקת רציפה ברירית המעי.",
+        "closest_code": "K50.90",
+        "score": 0.904
+      },
+      {
+        "evidence": "בבדיקה בקע שניתן להחזירו.",
+        "closest_code": "K43.9",
+        "score": 0.891
+      }
+    ]
+  },
+  {
+    "visit_id": "V0127",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "חתך שטחי בקרקפת לאחר פגיעה בחפץ חד.",
+        "closest_code": "S30.0XXA",
+        "score": 0.899
+      }
+    ]
+  },
+  {
+    "visit_id": "V0132",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "פריקות חוזרות במפרק כתף ימין.",
+        "closest_code": "S83.511A",
+        "score": 0.898
+      }
+    ]
+  },
+  {
+    "visit_id": "V0143",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "גרד וקילוף בקפלי המרפקים לאורך שנים.",
+        "closest_code": "L28.0",
+        "score": 0.874
+      },
+      {
+        "evidence": "שלשול מימי מרובה לאחר אנטיביוטיקה.",
+        "closest_code": "B27.90",
+        "score": 0.86
+      }
+    ]
+  },
+  {
+    "visit_id": "V0146",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "ביופסיה מגסטרוסקופיה הראתה ממאירות קיבה.",
+        "closest_code": "C18.7",
+        "score": 0.894
+      }
+    ]
+  },
+  {
+    "visit_id": "V0147",
+    "predictions": [
+      {
+        "code": "D62",
+        "score": 0.974,
+        "evidence": "חולשה וסחרחורת לאחר איבוד דם משמעותי.",
+        "similar_visit": "V0157",
+        "description": "Acute posthemorrhagic anemia"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כאב עז ובליטה נפוחה בשפה אחת.",
+        "closest_code": "H60.312",
+        "score": 0.867
+      }
+    ]
+  },
+  {
+    "visit_id": "V0156",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "שפעת מנגיף שפעת עונתי מזוהה עם תסמינים נשימתיים.",
+        "closest_code": "J12.9",
+        "score": 0.913
+      }
+    ]
+  },
+  {
+    "visit_id": "V0160",
+    "predictions": [
+      {
+        "code": "D51.9",
+        "score": 1.0,
+        "evidence": "עייפות ונימול עם מאקרוציטוזיס.",
+        "similar_visit": "V0058",
+        "description": "Vitamin B12 deficiency anemia, unspecified"
+      },
+      {
+        "code": "D66",
+        "score": 1.0,
+        "evidence": "נטייה לדימומים למפרקים מגיל צעיר.",
+        "similar_visit": "V0187",
+        "description": "Hereditary factor VIII deficiency"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0161",
+    "predictions": [
+      {
+        "code": "E06.3",
+        "score": 1.0,
+        "evidence": "תת פעילות מתפתחת ורגישות קלה בצוואר.",
+        "similar_visit": "V0173",
+        "description": "Autoimmune thyroiditis"
+      },
+      {
+        "code": "I12.9",
+        "score": 0.973,
+        "evidence": "מטופל עם יתר לחץ דם כרוני ומחלת כליות כרונית מתועדת.",
+        "similar_visit": "V0472",
+        "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "שיעול כרוני עם כיח רב בבקרים.",
+        "closest_code": "A15.0",
+        "score": 0.877
+      }
+    ]
+  },
+  {
+    "visit_id": "V0169",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "התקף איסכמי חולף.",
+        "closest_code": "I20.9",
+        "score": 0.89
+      }
+    ]
+  },
+  {
+    "visit_id": "V0192",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "עבר של TIA ואוטם מוחי ללא חסר נוירולוגי שיורי.",
+        "closest_code": "Q05.9",
+        "score": 0.896
+      }
+    ]
+  },
+  {
+    "visit_id": "V0198",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "הפניה לממוגרפיה שגרתית ללא גוש או תלונה.",
+        "closest_code": "R14.0",
+        "score": 0.854
+      }
+    ]
+  },
+  {
+    "visit_id": "V0200",
+    "predictions": [
+      {
+        "code": "I51.7",
+        "score": 1.0,
+        "evidence": "צל לב מוגדל בבדיקת חזה ובירור נוסף.",
+        "similar_visit": "V0168",
+        "description": "Cardiomegaly"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "דחיפות בהשתנה עם תכיפות וללא זיהום.",
+        "closest_code": "N30.00",
+        "score": 0.882
+      }
+    ]
+  },
+  {
+    "visit_id": "V0202",
+    "predictions": [
+      {
+        "code": "H61.21",
+        "score": 1.0,
+        "evidence": "ירידה פתאומית בשמיעה באוזן ימין ללא כאב.",
+        "similar_visit": "V0341",
+        "description": "Impacted cerumen, right ear"
+      },
+      {
+        "code": "J31.2",
+        "score": 0.97,
+        "evidence": "תחושת גירוי בגרון וכיחכוח לאורך חודשים.",
+        "similar_visit": "V0411",
+        "description": "Chronic pharyngitis"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0206",
+    "predictions": [
+      {
+        "code": "E11.22",
+        "score": 0.965,
+        "evidence": "סוכרת ממושכת עם אלבומינוריה וירידה בתפקוד הכלייתי.",
+        "similar_visit": "V0019",
+        "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כאב בעת תנועה פעילה של הגיד.",
+        "closest_code": "M76.61",
+        "score": 0.901
+      }
+    ]
+  },
+  {
+    "visit_id": "V0223",
+    "predictions": [
+      {
+        "code": "N95.1",
+        "score": 1.0,
+        "evidence": "גלי חום והזעות לילה סביב הפסקת המחזור.",
+        "similar_visit": "V0024",
+        "description": "Menopausal and female climacteric states"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "בדיקת הריון שלילית וממתינים לבירור.",
+        "closest_code": "N91.1",
+        "score": 0.879
+      }
+    ]
+  },
+  {
+    "visit_id": "V0231",
+    "predictions": [
+      {
+        "code": "J38.3",
+        "score": 1.0,
+        "evidence": "לרינגוסקופיה עם ממצא במיתרים.",
+        "similar_visit": "V0530",
+        "description": "Other diseases of vocal cords"
+      },
+      {
+        "code": "Q05.9",
+        "score": 0.963,
+        "evidence": "בירור הדמייתי מתאים למום בסגירת עמוד השדרה.",
+        "similar_visit": "V0301",
+        "description": "Spina bifida, unspecified"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0235",
+    "predictions": [
+      {
+        "code": "B18.2",
+        "score": 0.993,
+        "evidence": "HCV RNA חיובי לאורך זמן.",
+        "similar_visit": "V0394",
+        "description": "Chronic viral hepatitis C"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "שיעול וחום לאחר אירוע השתנקות בזמן אכילה.",
+        "closest_code": "K22.4",
+        "score": 0.881
+      }
+    ]
+  },
+  {
+    "visit_id": "V0243",
+    "predictions": [
+      {
+        "code": "G62.9",
+        "score": 1.0,
+        "evidence": "עקצוץ בכפות רגליים וסימני פגיעה תחושתית.",
+        "similar_visit": "V0583",
+        "description": "Polyneuropathy, unspecified"
+      },
+      {
+        "code": "M75.41",
+        "score": 1.0,
+        "evidence": "כאב בקשת תנועה בין 70 ל-120 מעלות.",
+        "similar_visit": "V0523",
+        "description": "Impingement syndrome of right shoulder"
+      },
+      {
+        "code": "G61.0",
+        "score": 0.961,
+        "evidence": "חולשה העולה מהרגליים לאחר זיהום נשימתי.",
+        "similar_visit": "V0570",
+        "description": "Guillain-Barre syndrome"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0246",
+    "predictions": [
+      {
+        "code": "D57.1",
+        "score": 1.0,
+        "evidence": "מחלה המטולוגית תורשתית ידועה במעקב.",
+        "similar_visit": "V0470",
+        "description": "Sickle-cell disease without crisis"
+      },
+      {
+        "code": "E11.9",
+        "score": 1.0,
+        "evidence": "HbA1c 7.3 ללא סיבוכים מתועדים.",
+        "similar_visit": "V0402",
+        "description": "Type 2 diabetes mellitus without complications"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0255",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "שנים של יתר לחץ דם וכעת עדות לעיבוי החדר השמאלי.",
+        "closest_code": "I15.0",
+        "score": 0.902
+      }
+    ]
+  },
+  {
+    "visit_id": "V0262",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "ילוד שנולד לפני המועד הנדרש למעקב פגים.",
+        "closest_code": "O26.899",
+        "score": 0.832
+      }
+    ]
+  },
+  {
+    "visit_id": "V0273",
+    "predictions": [
+      {
+        "code": "D55.9",
+        "score": 1.0,
+        "evidence": "אירועי המוליזה חוזרים אחרי חשיפות מסוימות.",
+        "similar_visit": "V0520",
+        "description": "Anemia due to enzyme disorder, unspecified"
+      },
+      {
+        "code": "E03.9",
+        "score": 0.969,
+        "evidence": "TSH מוגבר ו-FT4 נמוך.",
+        "similar_visit": "V0444",
+        "description": "Hypothyroidism, unspecified"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0281",
+    "predictions": [
+      {
+        "code": "M86.9",
+        "score": 1.0,
+        "evidence": "MRI עם סימנים לזיהום עצם.",
+        "similar_visit": "V0204",
+        "description": "Osteomyelitis, unspecified"
+      },
+      {
+        "code": "M23.203",
+        "score": 0.968,
+        "evidence": "תפיסות מכניות בברך ימין לאורך חודשים.",
+        "similar_visit": "V0459",
+        "description": "Derangement of unspecified medial meniscus due to old tear or injury, right knee"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0282",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "מצוקה נפשית משמעותית בבירור ללא אבחנה מלאה.",
+        "closest_code": "R26.89",
+        "score": 0.887
+      }
+    ]
+  },
+  {
+    "visit_id": "V0283",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "הקאות ושלשול לאחר ארוחה משותפת.",
+        "closest_code": "A08.4",
+        "score": 0.872
+      }
+    ]
+  },
+  {
+    "visit_id": "V0297",
+    "predictions": [
+      {
+        "code": "F40.240",
+        "score": 1.0,
+        "evidence": "פחד עז ממעליות ומחללים סגורים.",
+        "similar_visit": "V0487",
+        "description": "Claustrophobia"
+      },
+      {
+        "code": "M65.4",
+        "score": 0.995,
+        "evidence": "כאב בצד הרדיאלי של שורש כף היד בעת הרמת תינוק.",
+        "similar_visit": "V0539",
+        "description": "Radial styloid tenosynovitis [de Quervain]"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "פפילאדמה ולחץ פתיחה מוגבר בניקור מותני.",
+        "closest_code": "H83.09",
+        "score": 0.893
+      }
+    ]
+  },
+  {
+    "visit_id": "V0307",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "חולשה בחולה עם תזונה מוגבלת ומדדי דם חריגים.",
+        "closest_code": "D53.9",
+        "score": 0.915
+      }
+    ]
+  },
+  {
+    "visit_id": "V0308",
+    "predictions": [
+      {
+        "code": "N63.11",
+        "score": 1.0,
+        "evidence": "הפניה להדמיה ובירור רקמתי לפי צורך.",
+        "similar_visit": "V0001",
+        "description": "Unspecified lump in the right breast, upper outer quadrant"
+      },
+      {
+        "code": "E15",
+        "score": 1.0,
+        "evidence": "אובדן הכרה עם רמת סוכר נמוכה במטופל ללא סוכרת.",
+        "similar_visit": "V0318",
+        "description": "Nondiabetic hypoglycemic coma"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "גוש רך ומעט רגיש בשד ימין המשתנה לאורך החודש.",
+        "closest_code": "N60.02",
+        "score": 0.917
+      }
+    ]
+  },
+  {
+    "visit_id": "V0319",
+    "predictions": [
+      {
+        "code": "A15.0",
+        "score": 0.97,
+        "evidence": "שיעול ממושך עם הזעות לילה וירידה במשקל.",
+        "similar_visit": "V0183",
+        "description": "Tuberculosis of lung"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0322",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "התקפי סחרחורת סיבובית קצרים בהתהפכות במיטה.",
+        "closest_code": "J05.0",
+        "score": 0.798
+      }
+    ]
+  },
+  {
+    "visit_id": "V0324",
+    "predictions": [
+      {
+        "code": "M32.9",
+        "score": 1.0,
+        "evidence": "פריחה המוחמרת בשמש וכאבי מפרקים עם עייפות.",
+        "similar_visit": "V0253",
+        "description": "Systemic lupus erythematosus, unspecified"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "אולטרסאונד עם קרע בגיד השרוול.",
+        "closest_code": "M75.102",
+        "score": 0.918
+      }
+    ]
+  },
+  {
+    "visit_id": "V0333",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "אובדן ראייה פתאומי וללא כאב בעין ימין.",
+        "closest_code": "H10.31",
+        "score": 0.902
+      }
+    ]
+  },
+  {
+    "visit_id": "V0342",
+    "predictions": [
+      {
+        "code": "J33.9",
+        "score": 0.974,
+        "evidence": "באנדוסקופיה נראו פוליפים.",
+        "similar_visit": "V0361",
+        "description": "Nasal polyp, unspecified"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "נמצאו רבדים בשני עורקי הצוואר בעת בירור וסקולרי.",
+        "closest_code": "I25.10",
+        "score": 0.906
+      }
+    ]
+  },
+  {
+    "visit_id": "V0351",
+    "predictions": [
+      {
+        "code": "E10.65",
+        "score": 1.0,
+        "evidence": "סוכרת סוג 1 עם היפרגליקמיה.",
+        "similar_visit": "V0251",
+        "description": "Type 1 diabetes mellitus with hyperglycemia"
+      },
+      {
+        "code": "J34.2",
+        "score": 0.968,
+        "evidence": "קושי בנשימה בעיקר בנחיר אחד.",
+        "similar_visit": "V0073",
+        "description": "Deviated nasal septum"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0353",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "נגע סגלגל יחיד ואחריו פריחה אובלית על הגו.",
+        "closest_code": "B02.9",
+        "score": 0.886
+      }
+    ]
+  },
+  {
+    "visit_id": "V0362",
+    "predictions": [
+      {
+        "code": "E11.319",
+        "score": 1.0,
+        "evidence": "צילום קרקעית מתאר רטינופתיה ללא בצקת.",
+        "similar_visit": "V0494",
+        "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "אקו עם היצרות מסתמית משמעותית.",
+        "closest_code": "I34.0",
+        "score": 0.928
+      }
+    ]
+  },
+  {
+    "visit_id": "V0363",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "אובדן חוש הריח אחרי זיהום נשימתי.",
+        "closest_code": "G62.9",
+        "score": 0.858
+      }
+    ]
+  },
+  {
+    "visit_id": "V0367",
+    "predictions": [
+      {
+        "code": "L91.0",
+        "score": 1.0,
+        "evidence": "צלקת מורמת ומגרדת לאחר ניתוח.",
+        "similar_visit": "V0552",
+        "description": "Hypertrophic scar"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0378",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "טשטוש ראייה לכל המרחקים והפרעת מיקוד.",
+        "closest_code": "H52.13",
+        "score": 0.913
+      }
+    ]
+  },
+  {
+    "visit_id": "V0393",
+    "predictions": [
+      {
+        "code": "L29.9",
+        "score": 1.0,
+        "evidence": "גרד מפושט ללא פריחה ראשונית.",
+        "similar_visit": "V0170",
+        "description": "Pruritus, unspecified"
+      },
+      {
+        "code": "L50.0",
+        "score": 1.0,
+        "evidence": "נגעים מורמים וחולפים לאחר חשיפה למזון חדש.",
+        "similar_visit": "V0563",
+        "description": "Allergic urticaria"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0399",
+    "predictions": [
+      {
+        "code": "K58.1",
+        "score": 0.953,
+        "evidence": "נפיחות וכאבי בטן המוקלים לאחר יציאה קשה.",
+        "similar_visit": "V0175",
+        "description": "Irritable bowel syndrome with constipation"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "פטכיות חדשות עם ספירת טסיות נמוכה מאוד.",
+        "closest_code": "D75.839",
+        "score": 0.856
+      }
+    ]
+  },
+  {
+    "visit_id": "V0400",
+    "predictions": [
+      {
+        "code": "I95.1",
+        "score": 1.0,
+        "evidence": "נמדדה ירידה בלחץ הדם בעמידה.",
+        "similar_visit": "V0442",
+        "description": "Orthostatic hypotension"
+      },
+      {
+        "code": "H52.13",
+        "score": 1.0,
+        "evidence": "קושי בראייה למרחק ללא משקפיים.",
+        "similar_visit": "V0124",
+        "description": "Myopia, bilateral"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "עלייה מתמשכת במשקל עם BMI גבוה.",
+        "closest_code": "F50.00",
+        "score": 0.865
+      }
+    ]
+  },
+  {
+    "visit_id": "V0401",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "דופלקס ללא פקקת ורידים עמוקה.",
+        "closest_code": "I36.1",
+        "score": 0.854
+      }
+    ]
+  },
+  {
+    "visit_id": "V0407",
+    "predictions": [
+      {
+        "code": "G43.109",
+        "score": 1.0,
+        "evidence": "הבזקי אור בשדה הראייה לפני כאב פועם.",
+        "similar_visit": "V0117",
+        "description": "Migraine with aura, not intractable, without status migrainosus"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כיווץ חריף בשרירי גב לאחר תנועה חדה.",
+        "closest_code": "S16.1XXA",
+        "score": 0.905
+      }
+    ]
+  },
+  {
+    "visit_id": "V0424",
+    "predictions": [
+      {
+        "code": "E53.8",
+        "score": 1.0,
+        "evidence": "רמה נמוכה של ויטמין B בבדיקות.",
+        "similar_visit": "V0084",
+        "description": "Deficiency of other specified B group vitamins"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "גוטטה בקרנית בשתי העיניים.",
+        "closest_code": "H52.13",
+        "score": 0.844
+      }
+    ]
+  },
+  {
+    "visit_id": "V0429",
+    "predictions": [
+      {
+        "code": "B35.1",
+        "score": 1.0,
+        "evidence": "ציפורן רגל מעובה ומתפוררת לאורך חודשים.",
+        "similar_visit": "V0226",
+        "description": "Tinea unguium"
+      },
+      {
+        "code": "H93.12",
+        "score": 0.995,
+        "evidence": "רעש גבוה פנימי באוזן שמאל לאחר הופעה פתאומית.",
+        "similar_visit": "V0416",
+        "description": "Tinnitus, left ear"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "עלייה מתמשכת במשקל עם BMI גבוה.",
+        "closest_code": "F50.00",
+        "score": 0.853
+      }
+    ]
+  },
+  {
+    "visit_id": "V0431",
+    "predictions": [
+      {
+        "code": "M22.2X1",
+        "score": 1.0,
+        "evidence": "כאב קדמי סביב הפיקה בריצה ובישיבה ממושכת.",
+        "similar_visit": "V0096",
+        "description": "Patellofemoral disorders, right knee"
+      },
+      {
+        "code": "G61.0",
+        "score": 0.961,
+        "evidence": "חולשה העולה מהרגליים לאחר זיהום נשימתי.",
+        "similar_visit": "V0570",
+        "description": "Guillain-Barre syndrome"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0434",
+    "predictions": [
+      {
+        "code": "K70.10",
+        "score": 0.996,
+        "evidence": "כאבי בטן ימניים ועייפות על רקע שתיית אלכוהול ממושכת.",
+        "similar_visit": "V0234",
+        "description": "Alcoholic hepatitis without ascites"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כאבי בטן חריפים בחולה עם מחלת כלי דם.",
+        "closest_code": "K50.90",
+        "score": 0.882
+      }
+    ]
+  },
+  {
+    "visit_id": "V0443",
+    "predictions": [
+      {
+        "code": "B01.9",
+        "score": 0.993,
+        "evidence": "פריחה של שלפוחיות בשלבי התפתחות שונים עם חום.",
+        "similar_visit": "V0304",
+        "description": "Varicella without complication"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "הקאות ושלשול לאחר ארוחה משותפת.",
+        "closest_code": "A08.4",
+        "score": 0.853
+      }
+    ]
+  },
+  {
+    "visit_id": "V0447",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "עייפות עם וסת כבדה וממושכת.",
+        "closest_code": "N92.0",
+        "score": 0.881
+      }
+    ]
+  },
+  {
+    "visit_id": "V0451",
+    "predictions": [
+      {
+        "code": "E04.1",
+        "score": 1.0,
+        "evidence": "ממצא מקרי של גוש קטן בקדמת הצוואר.",
+        "similar_visit": "V0505",
+        "description": "Nontoxic single thyroid nodule"
+      },
+      {
+        "code": "B02.9",
+        "score": 0.996,
+        "evidence": "כאב שורף ולאחריו שלפוחיות בפיזור דרמטומלי חד צדדי.",
+        "similar_visit": "V0335",
+        "description": "Zoster without complications"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "שלשול חריף עם כאבי בטן לאחר נסיעה.",
+        "closest_code": "K52.9",
+        "score": 0.882
+      }
+    ]
+  },
+  {
+    "visit_id": "V0466",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "כאב ראש חדש ללא דפוס מיגרנוטי ברור.",
+        "closest_code": "G44.209",
+        "score": 0.9
+      }
+    ]
+  },
+  {
+    "visit_id": "V0474",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "בדיקת התפתחות שגרתית בילד בריא.",
+        "closest_code": "Q90.9",
+        "score": 0.869
+      }
+    ]
+  },
+  {
+    "visit_id": "V0490",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "כאב אפיגסטרי המוקל לעיתים באכילה.",
+        "closest_code": "K85.90",
+        "score": 0.871
+      }
+    ]
+  },
+  {
+    "visit_id": "V0496",
+    "predictions": [
+      {
+        "code": "L85.3",
+        "score": 0.987,
+        "evidence": "קילוף וסדקים דקים בעור השוקיים בחורף.",
+        "similar_visit": "V0430",
+        "description": "Xerosis cutis"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "שינויים ניווניים מכאיבים במספר מפרקים לאורך שנים.",
+        "closest_code": "M17.12",
+        "score": 0.859
+      }
+    ]
+  },
+  {
+    "visit_id": "V0498",
+    "predictions": [
+      {
+        "code": "M35.3",
+        "score": 1.0,
+        "evidence": "כאב ונוקשות בכתפיים ובאגן בשעות הבוקר.",
+        "similar_visit": "V0070",
+        "description": "Polymyalgia rheumatica"
+      },
+      {
+        "code": "M11.20",
+        "score": 1.0,
+        "evidence": "בצילום הסתיידויות בסחוס.",
+        "similar_visit": "V0079",
+        "description": "Other chondrocalcinosis, unspecified site"
+      },
+      {
+        "code": "L40.0",
+        "score": 0.976,
+        "evidence": "פלאקים אדומים עם קשקשת כסופה במרפקים ובברכיים.",
+        "similar_visit": "V0403",
+        "description": "Psoriasis vulgaris"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0512",
+    "predictions": [
+      {
+        "code": "E78.1",
+        "score": 1.0,
+        "evidence": "טריגליצרידים 410 עם LDL תקין יחסית.",
+        "similar_visit": "V0007",
+        "description": "Pure hyperglyceridemia"
+      },
+      {
+        "code": "L28.0",
+        "score": 1.0,
+        "evidence": "רובד מעובה ומגרד בעור לאחר שפשוף חוזר.",
+        "similar_visit": "V0015",
+        "description": "Lichen simplex chronicus"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0515",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "אי ספיקה נשימתית חריפה עם היפוקסמיה.",
+        "closest_code": "A15.0",
+        "score": 0.876
+      }
+    ]
+  },
+  {
+    "visit_id": "V0526",
+    "predictions": [
+      {
+        "code": "J38.3",
+        "score": 1.0,
+        "evidence": "לרינגוסקופיה עם ממצא במיתרים.",
+        "similar_visit": "V0530",
+        "description": "Other diseases of vocal cords"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0528",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "כאבי גב והקרנה ללא צליעה נוירוגנית.",
+        "closest_code": "M43.16",
+        "score": 0.91
+      },
+      {
+        "evidence": "אירועי אובדן הכרה חוזרים עם תנועות טוניות קלוניות.",
+        "closest_code": "G35",
+        "score": 0.871
+      }
+    ]
+  },
+  {
+    "visit_id": "V0529",
+    "predictions": [
+      {
+        "code": "N39.41",
+        "score": 0.974,
+        "evidence": "דליפת שתן לפני ההגעה לשירותים בזמן דחיפות.",
+        "similar_visit": "V0336",
+        "description": "Urge incontinence"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "תחושת החסרת פעימה ללא התעלפות.",
+        "closest_code": "I49.3",
+        "score": 0.933
+      }
+    ]
+  },
+  {
+    "visit_id": "V0535",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "כאב בצד החיצוני של מרפק ימין בזמן אחיזה.",
+        "closest_code": "S63.501A",
+        "score": 0.917
+      }
+    ]
+  },
+  {
+    "visit_id": "V0543",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "חום ושיעול ליחתי עם כאב פלאוריטי.",
+        "closest_code": "J13",
+        "score": 0.893
+      },
+      {
+        "evidence": "אירועי עילפון לסירוגין ונמצאו פעימות שלא הולכו.",
+        "closest_code": "R00.2",
+        "score": 0.845
+      }
+    ]
+  },
+  {
+    "visit_id": "V0562",
+    "predictions": [
+      {
+        "code": "E53.8",
+        "score": 0.996,
+        "evidence": "רמה נמוכה של ויטמין B בבדיקות.",
+        "similar_visit": "V0084",
+        "description": "Deficiency of other specified B group vitamins"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "כאב אשך ימני עם בדיקה שלא הובילה לאבחנה סופית.",
+        "closest_code": "R10.31",
+        "score": 0.899
+      },
+      {
+        "evidence": "דופק מהיר וסדיר בהתקפים שמתחילים ומסתיימים בפתאומיות.",
+        "closest_code": "I49.5",
+        "score": 0.878
+      }
+    ]
+  },
+  {
+    "visit_id": "V0566",
+    "predictions": [
+      {
+        "code": "D68.9",
+        "score": 1.0,
+        "evidence": "שטפי דם חוזרים ובדיקות קרישה חריגות.",
+        "similar_visit": "V0104",
+        "description": "Coagulation defect, unspecified"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "דם בבדיקת שתן ותרבית בהמתנה.",
+        "closest_code": "N30.00",
+        "score": 0.914
+      }
+    ]
+  },
+  {
+    "visit_id": "V0567",
+    "predictions": [
+      {
+        "code": "M17.11",
+        "score": 1.0,
+        "evidence": "כאב מכני בברך ימין בעיקר בירידה במדרגות.",
+        "similar_visit": "V0427",
+        "description": "Unilateral primary osteoarthritis, right knee"
+      },
+      {
+        "code": "M21.41",
+        "score": 0.98,
+        "evidence": "כאבי קשת כף רגל ימין בהליכה ממושכת.",
+        "similar_visit": "V0026",
+        "description": "Flat foot [pes planus] (acquired), right foot"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0573",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "נוקשות וכאב קל בברך שמאל בעמידה.",
+        "closest_code": "M17.12",
+        "score": 0.902
+      }
+    ]
+  },
+  {
+    "visit_id": "V0577",
+    "predictions": [
+      {
+        "code": "E61.1",
+        "score": 1.0,
+        "evidence": "פריטין 8 ללא ירידה ברורה בהמוגלובין.",
+        "similar_visit": "V0412",
+        "description": "Iron deficiency"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0584",
+    "predictions": [
+      {
+        "code": "L43.9",
+        "score": 1.0,
+        "evidence": "פפולות סגולות מגרדות בשורשי כפות הידיים.",
+        "similar_visit": "V0218",
+        "description": "Lichen planus, unspecified"
+      },
+      {
+        "code": "E06.3",
+        "score": 0.973,
+        "evidence": "תת פעילות מתפתחת ורגישות קלה בצוואר.",
+        "similar_visit": "V0173",
+        "description": "Autoimmune thyroiditis"
+      },
+      {
+        "code": "A49.02",
+        "score": 0.967,
+        "evidence": "זיהום חיידקי עם עמידות למתיצילין.",
+        "similar_visit": "V0465",
+        "description": "Methicillin resistant Staphylococcus aureus infection, unspecified site"
+      }
+    ],
+    "not_coded": []
+  },
+  {
+    "visit_id": "V0592",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "שלשול מימי מרובה לאחר אנטיביוטיקה.",
+        "closest_code": "K90.0",
+        "score": 0.874
+      }
+    ]
+  },
+  {
+    "visit_id": "V0595",
+    "predictions": [
+      {
+        "code": "L25.9",
+        "score": 1.0,
+        "evidence": "פריחה אחרי חשיפה לחומר חדש, טרם סווג המנגנון.",
+        "similar_visit": "V0382",
+        "description": "Unspecified contact dermatitis, unspecified cause"
+      }
+    ],
+    "not_coded": [
+      {
+        "evidence": "אשך אחד אינו נמוש בשק האשכים בילד.",
+        "closest_code": "N43.3",
+        "score": 0.841
+      }
+    ]
+  },
+  {
+    "visit_id": "V0597",
+    "predictions": [],
+    "not_coded": [
+      {
+        "evidence": "ממצא אסימטרי במפרקי הירך של תינוק.",
+        "closest_code": "M16.12",
+        "score": 0.863
+      }
+    ]
+  }
+]
